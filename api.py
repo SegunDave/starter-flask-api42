@@ -1,2 +1,0 @@
-url = 'https://rkxnrdkvhzwrhtyvhjpu.supabase.co'
-key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJreG5yZGt2aHp3cmh0eXZoanB1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDg5NjA1NDQsImV4cCI6MjAyNDUzNjU0NH0.f0Y0t3_MIl84vUKL05cBFOoyEZXpZZE_2YPvU8Dmcz0'
